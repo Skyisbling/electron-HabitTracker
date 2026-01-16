@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Skyisbling/electron-HabitTracker#readme",
   "devDependencies": {
     "electron": "^39.2.7"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.6.0"
   }
 }
